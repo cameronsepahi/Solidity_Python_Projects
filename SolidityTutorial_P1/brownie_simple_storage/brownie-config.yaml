@@ -1,0 +1,3 @@
+dotenv: .env  #when we run scripts, it grabs the environment variables from the .env file
+wallets: 
+  from_key: ${PRIVATE_KEY} #represents an environment variable 
