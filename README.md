@@ -1,7 +1,7 @@
 # Solidity_Python_Projects
 Deploying solidity contracts to various testnets and local environments, using python for deployments. 
 
-Pre-requeisites 
+## Pre-requeisites 
 
 ### Brownie Introduction
 - Some Users:
