@@ -1,5 +1,5 @@
 # Solidity_Python_Projects
-Deploying solidity contracts to various testnets and local environments, using python for deployments. 
+Deploying solidity contracts to various testnets and local environments, using python for deployments and Brownie as the framework. 
 
 ## Pre-requeisites 
 
